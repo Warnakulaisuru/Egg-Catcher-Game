@@ -51,3 +51,4 @@ D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debu
 D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.pdb
 D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.genruntimeconfig.cache
 D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\ref\egg catcher game.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.sourcelink.json
