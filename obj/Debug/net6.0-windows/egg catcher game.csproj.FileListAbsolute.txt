@@ -1,0 +1,53 @@
+C:\Users\ASUS\Desktop\New folder\bin\Debug\net6.0-windows\egg catcher game.exe
+C:\Users\ASUS\Desktop\New folder\bin\Debug\net6.0-windows\egg catcher game.deps.json
+C:\Users\ASUS\Desktop\New folder\bin\Debug\net6.0-windows\egg catcher game.runtimeconfig.json
+C:\Users\ASUS\Desktop\New folder\bin\Debug\net6.0-windows\egg catcher game.dll
+C:\Users\ASUS\Desktop\New folder\bin\Debug\net6.0-windows\egg catcher game.pdb
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg_catcher_game.gameBoard.resources
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg_catcher_game.Properties.Resources.resources
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.dll
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\refint\egg catcher game.dll
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.pdb
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\egg catcher game.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\New folder\obj\Debug\net6.0-windows\ref\egg catcher game.dll
+D:\HND\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.exe
+D:\HND\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.deps.json
+D:\HND\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.runtimeconfig.json
+D:\HND\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.dll
+D:\HND\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.pdb
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.csproj.AssemblyReference.cache
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg_catcher_game.gameBoard.resources
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg_catcher_game.Properties.Resources.resources
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.csproj.GenerateResource.cache
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.GeneratedMSBuildEditorConfig.editorconfig
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.AssemblyInfoInputs.cache
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.AssemblyInfo.cs
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.csproj.CoreCompileInputs.cache
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.dll
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\refint\egg catcher game.dll
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.pdb
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.genruntimeconfig.cache
+D:\HND\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\ref\egg catcher game.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.exe
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.deps.json
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.runtimeconfig.json
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\bin\Debug\net6.0-windows\egg catcher game.pdb
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg_catcher_game.gameBoard.resources
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg_catcher_game.Properties.Resources.resources
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.csproj.GenerateResource.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.GeneratedMSBuildEditorConfig.editorconfig
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.AssemblyInfoInputs.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.AssemblyInfo.cs
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.csproj.CoreCompileInputs.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\refint\egg catcher game.dll
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.pdb
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\egg catcher game.genruntimeconfig.cache
+D:\.HND\1st Sem\++Subjects\Visual Application Programming\Assesment\Egg\obj\Debug\net6.0-windows\ref\egg catcher game.dll
